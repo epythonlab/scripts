@@ -1,0 +1,8 @@
+README.md
+setup.py
+coolmath1/__init__.py
+coolmath1/math_operations.py
+coolmath1.egg-info/PKG-INFO
+coolmath1.egg-info/SOURCES.txt
+coolmath1.egg-info/dependency_links.txt
+coolmath1.egg-info/top_level.txt

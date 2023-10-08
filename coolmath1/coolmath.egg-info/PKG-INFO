@@ -1,0 +1,27 @@
+Metadata-Version: 2.1
+Name: coolmath
+Version: 0.1
+Summary: A simple math library
+Home-page: https://github.com/epythonlab/coolmath
+Author: Asibeh Tenager
+Author-email: epythonlab@epythonlab.com
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Description-Content-Type: text/markdown
+
+# coolmath
+
+A simple Python library for basic mathematical operations.
+
+## Installation
+
+You can install this library using pip:
+
+```bash
+pip install coolmath

@@ -1,0 +1,9 @@
+{
+    "reveal.printMarginColumn": 100,
+    "reveal.notes": true,
+    "reveal.theme": "white",
+    "reveal.transition": "slide",
+    "reveal.slideNumber": "c/t",
+    "reveal.center": false,
+    "reveal.margin": 0.04
+}
