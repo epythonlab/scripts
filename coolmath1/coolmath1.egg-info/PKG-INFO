@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: coolmath1
-Version: 0.1
+Version: 0.5
 Summary: A simple math library
 Home-page: https://github.com/epythonlab/coolmath
 Author: Asibeh Tenager
@@ -24,15 +24,20 @@ A simple Python library for basic mathematical operations.
 You can install this library using pip:
 
 ```bash
-pip install coolmath
+pip install coolmath1
+```
+# Usage
 
-python setup.py sdist bdist_wheel
-you can upload to the packing library index PyPI
+```bash
+from coolmath1 import add, subtract, multiply, divide
 
-to upload it
-you need to install
-pip install twine
+result_add = add(5, 3)
+result_subtract = subtract(10, 4)
+result_multiply = multiply(6, 7)
+result_divide = divide(8, 2)
 
-pip install coolmath
+print(f"Addition: {result_add}")
+print(f"Subtraction: {result_subtract}")
+print(f"Multiplication: {result_multiply}")
+print(f"Division: {result_divide}")
 
-from coolmath 

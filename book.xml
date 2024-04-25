@@ -1,0 +1,24 @@
+<library>
+  <book id="1">
+    <title>Python for Data Science</title>
+    <author>
+      <first_name>John</first_name>
+      <last_name>Doe</last_name>
+    </author>
+    <genre>Data Science</genre>
+    <price currency="USD">29.99</price>
+    <publication_year>2020</publication_year>
+    <publisher>Big Data Publishing</publisher>
+  </book>
+  <book id="2">
+    <title>Machine Learning Basics</title>
+    <author>
+      <first_name>Jane</first_name>
+      <last_name>Smith</last_name>
+    </author>
+    <genre>Machine Learning</genre>
+    <price currency="USD">39.99</price>
+    <publication_year>2019</publication_year>
+    <publisher>AI Press</publisher>
+  </book>
+</library>
